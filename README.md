@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**cardinalgeo/cardinalgeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Robert Collar, and I'm a geoscientist interested in the intersection of geochemistry and data science, especially as applied to ore deposits exploration.
+- 🔭 I’m currently working on the geochemistry of sediment-hosted Cu-Co deposits in the Central African Copperbelt.
+- 👯 I’m looking to collaborate on [`DrillDown`](https://github.com/cardinalgeo/drilldown), a **Python visualization and analysis toolkit for "drilling down" into ore deposits datasets**.
+- 📫 How to reach me: robert.collar@mail.mcgill.ca
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: From my time in California and Québec, I've decided that winters should either be very warm or very cold...drop a line with your favorite winter activity!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Places
+  - Montréal, QC, Canada
+      - PhD Candidate @ McGill University
+  - SF Bay Area, CA, USA
+      - Stanford University, BS Geological Sciences
+      - San Jose (my home town!)
